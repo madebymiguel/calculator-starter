@@ -50,4 +50,3 @@ function extractParams(queryParams) {
     throw new Error(`Failed to process query params. Received: ${queryParams}`);
   }
 }
-
